@@ -1,24 +1,53 @@
-# Simple Calculator 
+# CODSOFT Python Internship – Task Submissions
+Name: Kavinila P
+Duration: 20 June 2025 till 20 July 2025
+Internship Domain: Python Programming
 
-This is a basic Python calculator that performs simple arithmetic operations:  
-**Addition (+), Subtraction (-), Multiplication (*), and Division (/)**
+## Task 1: To-Do List App
+A simple Python-based to-do list manager to help users keep track of daily tasks.
 
-## 🛠 Features
-- Takes two numbers as input
-- Lets the user choose an operation
-- Displays the result
-- Handles division by zero
-- Easy to read and beginner-friendly
+Features: Add, view, mark complete, and delete tasks.
 
-## 📋 How to Run
+Interface: Command-line (CLI)
 
-1. Make sure you have Python installed.
-2. Save the code in a file, for example: `calculator.py`
-3. Open your terminal or command prompt.
-4. Run the program:
+Tech Used: Python
 
-## output
-Enter first number: 10  
-Enter second number: 5  
-Enter operation (+ - * /): *  
-Result: 50.0
+## Task 2: Simple Calculator
+A basic calculator that performs arithmetic operations.
+
+Features: Addition, subtraction, multiplication, division
+
+Interface: GUI using Tkinter / or CLI version
+
+Tech Used: Python
+
+## Task 3: Password Generator
+A secure password generator based on user-defined length.
+
+Features: Random characters, letters, digits, and symbols
+
+Interface: CLI
+
+Tech Used: Python random and string libraries
+
+
+## Task 4: Rock-Paper-Scissors Game
+A fun terminal game against the computer.
+
+Features: User input, random computer choice, game logic, replay option
+
+Interface: CLI
+
+Tech Used: Python random module
+
+
+## Task 5: Contact Book
+A mini contact manager to store and manage names & phone numbers.
+
+Features: Add, view, search, update, delete contacts
+
+Interface: CLI (no GUI)
+
+Tech Used: Python dictionaries and loops
+
+
